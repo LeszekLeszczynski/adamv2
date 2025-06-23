@@ -1,0 +1,5 @@
+- [ ] The AI-generated code is messy. Structure the code properly.
+- [ ] Add web search functionality
+- [ ] Store memory in a better format
+- [ ] Tune the prompt based on the first interactions
+- [ ] Create a nice interface
